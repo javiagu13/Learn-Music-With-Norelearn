@@ -1,6 +1,6 @@
 # Learn Music With Norelearn
 
-<img src="https://norelearn.com/norelearn.jpg" alt="Norelearn Image">
+<img src="https://norelearn.com/norelearn.jpg" alt="Norelearn Image" style="display: block; margin-left: auto; margin-right: auto;">
 
 <a href="https://norelearn.com">Norelearn</a> is a music education platform that allows you to have a music teacher in your pocket.
 
